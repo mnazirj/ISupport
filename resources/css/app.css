@@ -1,0 +1,15 @@
+a{
+    color: #1c1c1c !important;
+    transition: 1s !important;
+}
+a:hover{
+    color: #D70040 !important;
+    transition: .8s !important;
+}
+.bg-off-white{
+    background-color: #FAF9F6 !important;
+}
+.text-red{
+    color: #D70040 !important;
+}
+
